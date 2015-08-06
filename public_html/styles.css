@@ -1,0 +1,112 @@
+/*
+Title: Assignment8
+Name:Hirenkumar Patel
+Date: Jun 12 2015
+*/
+
+#logo
+{
+    margin:0 auto;
+    text-align:center;
+    background:#fff;
+}
+h2 {
+    margin: 0 0 1em;
+}
+#home h2 {
+    margin: 0 0 .5em;
+}
+#home h3, #vprospect h3, #vconvert h3, #vretain h3 {
+    margin: .75em 0 .5em;
+    padding-top: .5em;
+    border-top: 2px solid blue;
+}
+#product-adv
+{
+    display: inline;
+    height:250px;
+    //background: #b2b2b2;
+    text-align:center;
+}
+#product{
+    float:left;
+    height:180px;
+    width:180px;
+    //border:1px solid #242424;
+    margin:10px;
+}
+#product img{
+    border:none;
+    background: #B2B2B2;
+    color:#fff;
+    height: 150px;
+    width: 150px;
+}
+#product label{
+    border:none;
+    background: #B2B2B2;
+    color:#fff;
+    font-size: 15px;
+    text-align: center;
+}
+#right-content{
+    height:90%;
+    float:right;
+    width:66.6%;
+}
+#left-nav{
+    height:90%;
+    width:33.3%;
+    float:left;
+}
+#vprospect img, 
+#vconvert img, 
+#vretain img {
+    float: left;
+    margin: 0px .5em .5em 0px;
+}
+#solutions img {
+    margin: 1.2em;
+    height: 57px;
+    width: 100px;
+    //:1px solid #242424;
+}
+.offers{
+    display: block;
+    margin: 10px auto;
+}
+h4 {
+    margin: .75em 0 .25em;
+}
+
+p {
+    margin: 0 0 .5em;
+}
+a {
+    margin-bottom: .5em;
+    text-decoration: none;
+}
+q {
+    margin-bottom: .5em;
+    display: block;
+}
+
+ul, li {
+    margin: 0px;
+    padding: 0px;
+}
+ul {
+    padding-left: 1em;
+    padding-bottom: .5em;
+}
+cite {
+    margin: .5em 0;
+    text-align: right;
+    display: block;
+
+}
+li {
+    padding-left: .25em;
+    padding-bottom: .25em;
+}
+
